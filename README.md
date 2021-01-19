@@ -6,7 +6,8 @@
 
     
 ### Basic PHP API Added    
-- Search the database using a php backend.
+- Search the database using a php backend.     
+`example.com/api.php?query=Sydney`
 
 Example Data,
 ``` 
