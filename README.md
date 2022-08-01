@@ -19,7 +19,8 @@ Cabinet_Id,Address,Postcode,Attributes,State,PhoneNumber,id
 ### Total Payphones In Database
 # 15283
 > All Telstra Payphones that receive calls in Australia as of 2020.    
-    
-
-  
-Testing of an example website can be found here https://justseen.ml/tpc/index.php
+      
+ 
+### Quickest Method Of Search,   
+• Open the Database as RAW   
+• Use the Search Function in your browser 
