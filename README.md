@@ -2,7 +2,7 @@
 ### Australia    
    
 
-> Extensive Database Extraction of the Australian Payphone System, consisting of 15283 Payphones Number's.
+> Extensive Database Extraction of the Australian Payphone System, consisting of 15283 Callable Telstra Payphones.
 
     
 ### Basic PHP API Added    
